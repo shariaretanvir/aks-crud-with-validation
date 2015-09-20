@@ -1,0 +1,36 @@
+E:\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll.config
+E:\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll
+E:\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.pdb
+E:\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.dll
+E:\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.dll
+E:\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.pdb
+E:\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.xml
+E:\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.csprojResolveAssemblyReference.cache
+E:\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.dll
+E:\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.pdb
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll.config
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.pdb
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.dll
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.dll
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.pdb
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.xml
+D:\Akash\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Akash\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.csprojResolveAssemblyReference.cache
+D:\Akash\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.dll
+D:\Akash\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.csprojResolveAssemblyReference.cache
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll.config
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\DataLogicLayer.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\BusinessObject.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.xml
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\my projects\Crud_operation_with_validation\Crud_operation\DataLogicLayer\obj\Debug\DataLogicLayer.pdb

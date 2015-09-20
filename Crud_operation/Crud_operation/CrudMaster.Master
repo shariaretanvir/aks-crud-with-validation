@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CrudMaster.master.cs" Inherits="Crud_operation.CrudMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+
+    <%--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>--%>
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.5.5/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="http://jquery-multifile-plugin.googlecode.com/svn-history/r16/trunk/jquery.MetaData.js"></script>
+
+    <title>Crud Operation</title>
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+
+    <%--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>--%>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+
+
+
+
+
+
+
+    <form id="form1" runat="server">
+        <div class="jumbotron" style="text-align: center">
+
+            <h1>Crud Operation with Entity Framework</h1>
+
+        </div>
+        <asp:Button ID="ButtonAdd" CssClass="btn btn-info" runat="server" Text="Add" OnClick="ButtonAdd_Click" />
+        &nbsp;
+        <asp:Button ID="ButtonShow" CssClass="btn btn-warning" runat="server" Text="Show Data" OnClick="ButtonShow_Click" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </form>
+
+</body>
+</html>

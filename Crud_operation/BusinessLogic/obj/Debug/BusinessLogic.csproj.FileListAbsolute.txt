@@ -1,0 +1,33 @@
+E:\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.dll
+E:\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.pdb
+E:\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.dll
+E:\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.pdb
+E:\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.dll
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.pdb
+D:\Akash\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Akash\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Akash\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Akash\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\DataLogicLayer.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessLogic\obj\Debug\BusinessLogic.pdb

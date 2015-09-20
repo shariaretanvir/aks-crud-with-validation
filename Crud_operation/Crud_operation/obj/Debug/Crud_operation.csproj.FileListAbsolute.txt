@@ -1,0 +1,47 @@
+E:\Crud_operation\Crud_operation\bin\Crud_operation.dll.config
+E:\Crud_operation\Crud_operation\bin\Crud_operation.dll
+E:\Crud_operation\Crud_operation\bin\Crud_operation.pdb
+E:\Crud_operation\Crud_operation\obj\Debug\Crud_operation.csprojResolveAssemblyReference.cache
+E:\Crud_operation\Crud_operation\obj\Debug\Crud_operation.dll
+E:\Crud_operation\Crud_operation\obj\Debug\Crud_operation.pdb
+E:\Crud_operation\Crud_operation\bin\BusinessLogic.dll
+E:\Crud_operation\Crud_operation\bin\BusinessObject.dll
+E:\Crud_operation\Crud_operation\bin\BusinessLogic.pdb
+E:\Crud_operation\Crud_operation\bin\BusinessObject.pdb
+E:\Crud_operation\Crud_operation\bin\EntityFramework.dll
+E:\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.dll
+E:\Crud_operation\Crud_operation\bin\DataLogicLayer.dll
+E:\Crud_operation\Crud_operation\bin\EntityFramework.xml
+E:\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.xml
+E:\Crud_operation\Crud_operation\bin\DataLogicLayer.pdb
+D:\Akash\Crud_operation\Crud_operation\bin\Crud_operation.dll
+D:\Akash\Crud_operation\Crud_operation\bin\Crud_operation.pdb
+D:\Akash\Crud_operation\Crud_operation\bin\BusinessLogic.dll
+D:\Akash\Crud_operation\Crud_operation\bin\BusinessObject.dll
+D:\Akash\Crud_operation\Crud_operation\bin\DataLogicLayer.dll
+D:\Akash\Crud_operation\Crud_operation\bin\EntityFramework.dll
+D:\Akash\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.dll
+D:\Akash\Crud_operation\Crud_operation\bin\BusinessLogic.pdb
+D:\Akash\Crud_operation\Crud_operation\bin\BusinessObject.pdb
+D:\Akash\Crud_operation\Crud_operation\bin\DataLogicLayer.pdb
+D:\Akash\Crud_operation\Crud_operation\bin\EntityFramework.xml
+D:\Akash\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.xml
+D:\Akash\Crud_operation\Crud_operation\obj\Debug\Crud_operation.csprojResolveAssemblyReference.cache
+D:\Akash\Crud_operation\Crud_operation\obj\Debug\Crud_operation.dll
+D:\Akash\Crud_operation\Crud_operation\obj\Debug\Crud_operation.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\Crud_operation.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\Crud_operation.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\BusinessLogic.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\BusinessObject.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\DataLogicLayer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\EntityFramework.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\BusinessLogic.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\BusinessObject.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\DataLogicLayer.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\EntityFramework.xml
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\EntityFramework.SqlServer.xml
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\obj\Debug\Crud_operation.csprojResolveAssemblyReference.cache
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\obj\Debug\Crud_operation.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\obj\Debug\Crud_operation.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\Crud_operation\bin\Crud_operation.dll.config

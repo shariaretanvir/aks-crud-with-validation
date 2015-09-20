@@ -1,0 +1,15 @@
+E:\Crud_operation\BusinessObject\bin\Debug\BusinessObject.dll
+E:\Crud_operation\BusinessObject\bin\Debug\BusinessObject.pdb
+E:\Crud_operation\BusinessObject\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+E:\Crud_operation\BusinessObject\obj\Debug\BusinessObject.dll
+E:\Crud_operation\BusinessObject\obj\Debug\BusinessObject.pdb
+D:\Akash\Crud_operation\BusinessObject\bin\Debug\BusinessObject.dll
+D:\Akash\Crud_operation\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\Akash\Crud_operation\BusinessObject\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+D:\Akash\Crud_operation\BusinessObject\obj\Debug\BusinessObject.dll
+D:\Akash\Crud_operation\BusinessObject\obj\Debug\BusinessObject.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessObject\bin\Debug\BusinessObject.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessObject\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessObject\obj\Debug\BusinessObject.dll
+D:\my projects\Crud_operation_with_validation\Crud_operation\BusinessObject\obj\Debug\BusinessObject.pdb
